@@ -1,0 +1,11 @@
+C:\Users\PODT\source\repos\ListaPessoas\ListaPessoas\obj\Debug\netcoreapp3.1\ListaPessoas.csprojAssemblyReference.cache
+C:\Users\PODT\source\repos\ListaPessoas\ListaPessoas\obj\Debug\netcoreapp3.1\ListaPessoas.AssemblyInfoInputs.cache
+C:\Users\PODT\source\repos\ListaPessoas\ListaPessoas\obj\Debug\netcoreapp3.1\ListaPessoas.AssemblyInfo.cs
+C:\Users\PODT\source\repos\ListaPessoas\ListaPessoas\bin\Debug\netcoreapp3.1\ListaPessoas.exe
+C:\Users\PODT\source\repos\ListaPessoas\ListaPessoas\bin\Debug\netcoreapp3.1\ListaPessoas.deps.json
+C:\Users\PODT\source\repos\ListaPessoas\ListaPessoas\bin\Debug\netcoreapp3.1\ListaPessoas.runtimeconfig.json
+C:\Users\PODT\source\repos\ListaPessoas\ListaPessoas\bin\Debug\netcoreapp3.1\ListaPessoas.runtimeconfig.dev.json
+C:\Users\PODT\source\repos\ListaPessoas\ListaPessoas\bin\Debug\netcoreapp3.1\ListaPessoas.dll
+C:\Users\PODT\source\repos\ListaPessoas\ListaPessoas\bin\Debug\netcoreapp3.1\ListaPessoas.pdb
+C:\Users\PODT\source\repos\ListaPessoas\ListaPessoas\obj\Debug\netcoreapp3.1\ListaPessoas.dll
+C:\Users\PODT\source\repos\ListaPessoas\ListaPessoas\obj\Debug\netcoreapp3.1\ListaPessoas.pdb
